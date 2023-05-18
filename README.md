@@ -1,1 +1,1 @@
-# Learning_Portfolio1
+# 這是我這三個月的學習歷程，有Python、爬蟲、openCV影像處理、簡易的MySQL連接、機器學習與深度學習。
